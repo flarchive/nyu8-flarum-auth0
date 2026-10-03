@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of nyu8/flarum-auth0.** Not for installation: use [Packagist](https://packagist.org/packages/nyu8/flarum-auth0) or the [upstream repository](https://github.com/nyu8/flarum-auth0).
 
-**0** versions archived · Latest: [`1.0.6`](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`1.0.6`](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-06-07 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.3) |
+| `1.0.4` | 2021-06-07 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.4) |
+| `1.0.5` | 2021-06-07 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.5) |
+| `1.0.6` | 2021-06-09 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-auth0/tree/archive/v1.0.6) |
 
 Catalog entry: [packages/nyu8-flarum-auth0.json](https://github.com/flarchive/archive-index/blob/main/packages/nyu8-flarum-auth0.json)
 
